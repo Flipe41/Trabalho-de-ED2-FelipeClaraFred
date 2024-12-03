@@ -16,7 +16,7 @@ Este é um sistema de gerenciamento de tarefas que utiliza diferentes estruturas
 ### Execução
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/Flipe41/Trabalho-de-ED2-FelipeClaraFred
    ```
 2. Compile o código:
    ```bash
