@@ -20,11 +20,11 @@ Este é um sistema de gerenciamento de tarefas que utiliza diferentes estruturas
    ```
 2. Compile o código:
    ```bash
-   gcc -o gerenciador gerenciador.c
+   gcc -o projetoED2 projetoED2.c
    ```
 3. Execute o programa:
    ```bash
-   ./gerenciador
+   ./projetoED2
    ```
 
 ### Dependências
